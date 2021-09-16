@@ -21,7 +21,7 @@ Here you can find test assignent for ChIP-Seq data analysis and obtained results
       + all known motifs in 1 file;
       + HOMER findmotifs.pl log file.
   - bedtools_results. Contains results of GO analysis made with *bedtools closest* output, along with some intermediate files(exons extracted from total output, and file containing gene names only);
-  - HOMER_annotation_results. Contains results of GO analysis made with *annotatePeaks.pl* output, along with some intermediate files(logs of *annotatePeaks.pl*, and file containing gene names only);
+  - HOMER_GO_results. Contains results of GO analysis made with *annotatePeaks.pl* output, along with some intermediate files(logs of *annotatePeaks.pl*, and file containing gene names only);
   - src_data: simple Jupyter notebook to extract top 1000 peaks based on qValue, along with data from ENCODE (GM12892 original file, extracted top 1000 peaks file, bed6 file for GREAT GO enrichment with removed header);
   
  # 3. Software and used data:
