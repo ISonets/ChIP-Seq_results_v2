@@ -1,0 +1,1 @@
+cmd = top_1000_peaks.bed hg38 de_novo_motifs_top
